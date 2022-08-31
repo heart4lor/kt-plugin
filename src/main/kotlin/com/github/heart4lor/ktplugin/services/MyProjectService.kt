@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.heart4lor.ktplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.heart4lor.ktplugin.MyBundle
 
 class MyProjectService(project: Project) {
 

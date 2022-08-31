@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.heart4lor.ktplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.heart4lor.ktplugin.MyBundle
 
 class MyApplicationService {
 
